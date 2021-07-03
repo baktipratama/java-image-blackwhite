@@ -22,7 +22,7 @@ mvn clean install
 ```
 ./java-image-processor-1.0-SNAPSHOT.jar {converter-type} {image-filename} {output-filename}
 
-example
-./java-image-processor-1.0-SNAPSHOT.jar Grayscale lena.jpeg lena-graysacle.jpg
+example:
+./target/java-image-processor-1.0-SNAPSHOT.jar Grayscale lena.jpeg lena-graysacle.jpg
 ```
 
